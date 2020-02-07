@@ -1,9 +1,9 @@
 {
   "name": "tailwind-css-logical-properties",
-  "version": "2.0.3",
+  "version": "1.0.0",
   "author": "Omar Khatib",
   "license": "MIT",
-  "description": "Transform Tailwind config file to CSS variables.",
+  "description": "Generate classnames for CSS Logical Properties for margin, padding, border-width, border-raduis, text-align, float & writing-mode.",
   "main": "index.js",
   "bugs": {
     "url": "https://github.com/omarkhatibco/Tailwind-CSS-Logical-Propertiesissues"
