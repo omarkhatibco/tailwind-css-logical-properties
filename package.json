@@ -1,6 +1,6 @@
 {
   "name": "tailwind-css-logical-properties",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Omar Khatib",
   "license": "MIT",
   "description": "Generate classnames for CSS Logical Properties for margin, padding, border-width, border-raduis, text-align, float & writing-mode.",
