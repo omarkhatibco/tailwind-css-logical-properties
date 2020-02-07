@@ -1,0 +1,25 @@
+{
+  "name": "tailwind-css-logical-properties",
+  "version": "2.0.3",
+  "author": "Omar Khatib",
+  "license": "MIT",
+  "description": "Transform Tailwind config file to CSS variables.",
+  "main": "index.js",
+  "bugs": {
+    "url": "https://github.com/omarkhatibco/Tailwind-CSS-Logical-Propertiesissues"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@omarkhatibco"
+  },
+  "homepage": "https://github.com/omarkhatibco/Tailwind-CSS-Logical-Properties#readme",
+  "keywords": [
+    "tailwindcss",
+    "CSS Logical Properties"
+  ],
+  "dependencies": {
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {
+    "tailwindcss": "^1.2.0"
+  }
+}

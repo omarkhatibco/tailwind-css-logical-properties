@@ -1,0 +1,9 @@
+.idea/
+
+.editorconfig
+.gitignore
+.npmignore
+.prettierrc
+yarn.lock
+package-lock.json
+*.tgz
