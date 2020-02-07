@@ -8,9 +8,6 @@
   "bugs": {
     "url": "https://github.com/omarkhatibco/Tailwind-CSS-Logical-Propertiesissues"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@omarkhatibco"
-  },
   "homepage": "https://github.com/omarkhatibco/Tailwind-CSS-Logical-Properties#readme",
   "keywords": [
     "tailwindcss",
