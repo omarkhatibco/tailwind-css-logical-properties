@@ -33,7 +33,7 @@ npm install --save-dev tailwind-css-logical-properties
 
 ## Configure
 
-The css variables plugin exposes options for you to use. Here is the example for adding it to your project tailwind plugins.
+The CSS Logical Properties plugin exposes options for you to use. Here is the example for adding it to your project tailwind plugins.
 
 In `tailwind.js` or `tailwind.config.js` search for plugins section and add this lines.
 
@@ -49,7 +49,7 @@ plugins: [
 
 > CSS Writing Modes is a CSS module that defines various international writing modes, such as left-to-right (e.g. used by Latin and Indic scripts), right-to-left (e.g. used by Hebrew or Arabic scripts), bidirectional (used when mixing left-to-right and right-to-left scripts) and vertical (e.g. used by some Asian scripts).
 >
-> - MDN DOcs
+> - MDN Docs
 
 This module will generate the following rules.
 
