@@ -4,7 +4,7 @@
 
 [![npm](https://img.shields.io/npm/v/tailwind-css-logical-properties.svg?style=for-the-badge)](https://www.npmjs.com/package/tailwind-css-logical-properties)
 [![Downloads](https://img.shields.io/npm/dt/tailwind-css-logical-properties.svg?style=for-the-badge)](https://www.npmjs.com/package/tailwind-css-logical-properties)
-[![License](https://img.shields.io/npm/l/tailwind-css-logical-properties.svg?style=for-the-badge)](https://es.wikipedia.org/wiki/Licencia_MIT)
+[![License](https://img.shields.io/npm/l/tailwind-css-logical-properties.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/MIT_License)
 
 ## CSS Logical Properties
 
