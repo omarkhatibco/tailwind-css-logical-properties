@@ -2,9 +2,8 @@
 
 > Generate classnames for CSS Logical Properties for margin, padding, border-width, border-raduis, text-align, float & writing-mode.
 
-[![npm](https://img.shields.io/npm/v/tailwind-css-logical-properties.svg?style=for-the-badge)](https://www.npmjs.com/package/tailwind-css-logical-properties)
-[![Downloads](https://img.shields.io/npm/dt/tailwind-css-logical-properties.svg?style=for-the-badge)](https://www.npmjs.com/package/tailwind-css-logical-properties)
-[![License](https://img.shields.io/npm/l/tailwind-css-logical-properties.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/MIT_License)
+:warning: *this package is deprecated please use `tailwindcss-logical` instead.*
+
 
 ## CSS Logical Properties
 
